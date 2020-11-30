@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "mybatis-3-config.dtd">
+<configuration>
+    <properties>
+        <property name="" value="" />
+    </properties>
+    <settings>
+        <setting name="" value=""/>
+    </settings>
+    <typeAliases>
+        <typeAlias type=""/>
+        <package name="" />
+    </typeAliases>
+    <typeHandlers>
+        <typeHandler handler="" />
+        <package name="" />
+    </typeHandlers>
+    <objectFactory type="">
+    </objectFactory>
+    <objectWrapperFactory type=""></objectWrapperFactory>
+    <reflectorFactory type="" />
+    <plugins>
+        <plugin interceptor=""></plugin>
+    </plugins>
+    <environments default="">
+        <environment id="">
+            <transactionManager type=""></transactionManager>
+            <dataSource type="">
+                <property name="" value=""/>
+            </dataSource>
+        </environment>
+    </environments>
+    <databaseIdProvider type="">
+        <property name="" value=""/>
+    </databaseIdProvider>
+    <mappers>
+        <mapper/>
+        <package name=""/>
+    </mappers>
+</configuration>

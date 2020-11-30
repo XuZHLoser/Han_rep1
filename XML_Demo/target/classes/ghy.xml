@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mymvc> 
+  <actions> 
+    <action name="list" class="controller.list"> 
+      <result name="toListJSP">/list.jsp</result>  
+      <result name="toShowUserinfoList" type="zzzzzzzzzz">xxxxxxxxxxx</result> 
+    </action>  
+    <action name="showUserinfoList" class="controller.ShowUserinfoList"> 
+      <result name="toShowUserinfoListJSP">/showUserinfoList.jsp</result> 
+    </action> 
+  </actions> 
+</mymvc>
